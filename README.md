@@ -1,2 +1,2 @@
 # Digital-Library
-A Java-based digital library system designed to manage and organize digital resources efficiently.
+A Java Springboot based digital library system designed to manage and organize digital resources efficiently.
